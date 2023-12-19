@@ -13,6 +13,9 @@ A API possui três operações principais:
 
 3. **Atualizar Venda:** Permite a atualização do status da venda. As transições de status permitidas são especificadas.
 
+<br>
+<img src="img/swagger.png">
+
 ## Recursos
 
 - Vendedores com informações como ID, CPF, nome, e-mail e telefone.
